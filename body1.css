@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4; /* Optional: Set a background color */
+}
+
+.message {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    background-color: #ffffff; /* Optional: Set a background color for the message box */
+    padding: 20px;
+    border-radius: 10px; /* Optional: Add rounded corners to the message box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+}
